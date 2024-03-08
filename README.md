@@ -10,13 +10,14 @@
 1. [北海道大学苫小牧研究林](https://maps.app.goo.gl/UsVFnSg2CfytGZMM9)
 2. [ウトナイ湖](https://maps.app.goo.gl/umtGEyqLMBLN4K1V8)
 
+
 ## 交通
 
 ### 新千歲機場到苫小牧車站
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d77e90dc-1760-4cfe-9333-2c5d81b8cc26)
 
-我們是從新千歲機場搭乘 JR 到苫小牧車站，車程大概 1 個小時左右
+我們是從新千歲機場搭乘 JR 室蘭本線到苫小牧車站下車，車程大概 1 個小時左右，沿途風景滿漂亮的，也很好睡。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/20f74c36-019a-4f66-af23-309c791f4ce2)
 
@@ -25,8 +26,24 @@
 
 ### 北海道大学苫小牧研究林
 
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d621cce-1120-4967-af12-4b7859c3de91)
+
+從苫小牧車站出發，在公車乘車處找「01永福三条線」這班公車，公車是綠色的。
+
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/4a927a45-c146-4a7b-8956-3cec8ae30bdb)
+
+公車站大概長這樣。
+
+因為我們當時差點錯過公車，行李箱頂在頭上奔跑，所以來不及拍照，只好用 Google 街景代替，真是抱歉啊啊啊啊
+
+公車搭到「美園小学校前」站，再徒步走進去苫小牧研究林就可以了。
+
 ### ウトナイ湖
 
+### 苫小牧科學博物館
+
 ## 吃吃喝喝
+
+## 住宿
 
 ## 行李寄放
