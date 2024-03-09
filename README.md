@@ -4,6 +4,12 @@
 也寫給每位路癡體質和拉肚子體質的鳥友
 :::
 
+:::warning
+如果這篇賞鳥筆記對您有幫助，請答應我不要隨意餵食及播放鳥音
+
+感恩感恩 🙏
+:::
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
@@ -196,8 +202,5 @@ bah-pau! hó-tsia̍h ê bah-pau!
 我們是使用這個服務，要注意取件時間只到晚上八點，超過就沒辦法取件囉！
 
 :::warning
-如果這篇賞鳥筆記對您有幫助，請答應我不要隨意餵食及播放鳥音
-
-感恩感恩 🙏
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://portaly.cc/siansiansu/support)請我喝咖啡。
 :::
-
