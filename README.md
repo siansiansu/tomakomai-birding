@@ -1,5 +1,9 @@
 # 寫給賞鳥新手的賞鳥筆記 - 苫小牧篇
 
+:::warning
+也寫給每位路癡體質外加拉肚子體質的鳥友
+:::
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
 
