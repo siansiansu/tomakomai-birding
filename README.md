@@ -1,7 +1,7 @@
 # 寫給賞鳥新手的賞鳥筆記 - 苫小牧篇
 
 :::success
-也寫給每位路癡體質外加拉肚子體質的鳥友
+也寫給每位路癡體質和拉肚子體質的鳥友
 :::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
