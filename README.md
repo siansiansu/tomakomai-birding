@@ -7,7 +7,7 @@
 :::warning
 如果這篇賞鳥筆記對您有幫助，請答應我不要餵食及播放鳥音
 
-請安靜的觀察，悄悄的離開
+請安靜的觀察，結束後悄悄的離開
 :::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
