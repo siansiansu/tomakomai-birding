@@ -1,4 +1,4 @@
-# 給賞鳥新手的賞鳥筆記 - 苫小牧篇
+# 寫給賞鳥新手的賞鳥筆記 - 苫小牧篇
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
