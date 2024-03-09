@@ -4,11 +4,6 @@
 也寫給每位路癡體質和拉肚子體質的鳥友
 :::
 
-:::warning
-如果這篇賞鳥筆記對您有幫助，請答應我不要餵食及播放鳥音
-
-請安靜的觀察，結束後悄悄的離開
-:::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
@@ -199,3 +194,9 @@ bah-pau! hó-tsia̍h ê bah-pau!
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
 
 我們是使用這個服務，要注意取件時間只到晚上八點，超過就沒辦法取件囉！
+
+:::warning
+如果這篇賞鳥筆記對您有幫助，請答應我不要餵食及播放鳥音
+
+請安靜的觀察，吸收空氣裡的貝多芬，聽見鳥音裡的芬多精
+:::
