@@ -90,7 +90,7 @@
 
 <img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
 
-賞鳥的話，沿著湖畔的步道走就可以了，回程時記得提早抓好公車來的時間，免得錯過公車等太久！
+賞鳥的話，沿著湖畔的步道走就可以了，回程時記得算好公車來的時間，免得公車等太久！
 
 ### 北海道大学苫小牧研究林
 
