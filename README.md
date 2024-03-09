@@ -57,13 +57,15 @@
 
 上圖的紅色圈圈，是可以休息上廁所的地方
 
-到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息
+<img width="994" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78">
+
+到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息，是一棟小木屋。
 
 ![B39B482A-F803-4870-A181-5E5E46C9C5CF](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0904ac08-2a2a-4ceb-8de7-f399429f85ec)
 
 附上菜單，甜點非常非常的好吃！
 
-老闆很親切也很漂亮。
+老闆很親切也很漂亮！五顆星推薦。
 
 <img width="972" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4">
 
