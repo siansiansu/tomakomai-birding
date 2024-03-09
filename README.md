@@ -1,4 +1,4 @@
-# 賞鳥新手的賞鳥筆記 - 苫小牧篇
+# 給賞鳥新手的賞鳥筆記 - 苫小牧篇
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
@@ -7,9 +7,8 @@
 
 上面是苫小牧市的 2 個鳥點：
 
-1. [北海道大学苫小牧研究林](https://maps.app.goo.gl/UsVFnSg2CfytGZMM9)
-2. [ウトナイ湖](https://maps.app.goo.gl/umtGEyqLMBLN4K1V8)
-
+1. [ウトナイ湖](https://maps.app.goo.gl/umtGEyqLMBLN4K1V8)
+2. [北海道大学苫小牧研究林](https://maps.app.goo.gl/UsVFnSg2CfytGZMM9)
 
 ## 交通
 
@@ -31,7 +30,7 @@
 
 ### ウトナイ湖
 
-到 ウトナイ湖要搭公車
+到 `ウトナイ湖`要搭公車。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/4a927a45-c146-4a7b-8956-3cec8ae30bdb)
 
@@ -41,13 +40,11 @@
 
 ![312A2EE5-DE07-4A6F-9974-056F5E3D8565](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d393c958-49e9-4283-b305-94fc7c16772e)
 
-上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間
+上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間。
 
-一個小時一班！
+我們習慣會在上面做記號，並且拍照。
 
-一個小時一班！
-
-一個小時一班！
+要注意一個小時一班喔！
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d5f8aa8-ae13-4b58-ae99-4c72801a1335)
 
@@ -55,7 +52,7 @@
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/50f4a92c-a37c-4e21-9239-1c647dd65e7e)
 
-上圖的紅色圈圈，是可以休息上廁所的地方
+上圖圈起來的紅色圈圈，是可以休息上廁所的地方。
 
 <img width="994" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78">
 
