@@ -82,7 +82,7 @@
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b">
 
-上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗紗貼紙。
+上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
 <img width="1000" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5">
 
