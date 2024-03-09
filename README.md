@@ -3,9 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ec1b06fc-224d-4592-b338-35b7a3fb5584)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/523d9960-08a0-4aa6-8565-a544fae04003)
 
-上面是苫小牧市的 2 個鳥點：
+上圖紅色圈起來的地方是苫小牧市的 2 個鳥點：
 
 1. [ウトナイ湖](https://maps.app.goo.gl/umtGEyqLMBLN4K1V8)
 2. [北海道大学苫小牧研究林](https://maps.app.goo.gl/UsVFnSg2CfytGZMM9)
@@ -50,9 +50,13 @@
 
 車程大約 40 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/50f4a92c-a37c-4e21-9239-1c647dd65e7e)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/9cbeedab-3e85-4e09-b107-05e74bb5c6ef)
 
-上圖圈起來的紅色圈圈，是可以休息上廁所的地方。
+上圖圈起來的紅色圈圈，是可以休息上廁所的地方，箭頭是我們從公車下車後走的方向。
+
+![E62330E3-7BE2-4E6B-9892-F69BF78E3722](https://github.com/siansiansu/tomakomai-birding/assets/33391637/4a84767b-7f10-469b-9413-87ccdef1b7f1)
+
+`ウトナイ湖`的公車站牌長這樣，不要坐過頭囉！
 
 <img width="994" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78">
 
@@ -62,7 +66,7 @@
 
 附上菜單，甜點非常非常的好吃！
 
-老闆很親切也很漂亮！五顆星推薦。
+老闆很親切也很漂亮！一百顆星推薦。
 
 <img width="972" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4">
 
@@ -82,18 +86,37 @@
 
 <img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
 
-賞鳥的話，沿著湖畔的步道走就可以了，如果還有其他行程的話，記得掌握好來回的時間。
+賞鳥的話，沿著湖畔的步道走就可以了，回程時記得提早抓好公車來的時間，免得錯過公車等太久！
 
 ### 北海道大学苫小牧研究林
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d621cce-1120-4967-af12-4b7859c3de91)
 
-因為時間的關係，我們沒有實際探訪`苫小牧研究林`，不過還是有預先做好功課，我放在這邊。
+從苫小牧車站出發，在公車乘車處找`01永福三条線`這班公車。
 
-從苫小牧車站出發，在公車乘車處找「01永福三条線」這班公車。
-公車搭到「美園小学校前」站，再徒步走約 40 分鐘進去苫小牧研究林就可以了。
+公車搭到`美園小学校前`站，再徒步走約 40 分鐘進去`苫小牧研究林`就可以了。
+
+因為時間的關係，我們沒有實際探訪`苫小牧研究林`，所以就沒太多心得囉！
 
 ### 苫小牧科學博物館
+
+除了剛才提到的兩個鳥點外，我們還另外去了`苫小牧科學博物館`，非常推薦來這裡逛逛。
+
+裡頭展示了各式各樣的交通機械
+
+![005151AF-A5F2-4ACD-8D32-23CBA2A987CC](https://github.com/siansiansu/tomakomai-birding/assets/33391637/219abe2c-aee4-4b70-b5a3-a86d6fda571b)
+
+
+
+還有一艘退役的太空站
+
+![BF7E9550-D580-4C1C-837D-52B258F68851](https://github.com/siansiansu/tomakomai-birding/assets/33391637/7b36a054-05a1-47f5-8543-0a9bc9544145)
+
+我們在這裡用翻譯軟體纏著導覽員問東問西，什麼鬼問題，像是太空人怎麼便便啦？我已經 30 幾歲了現在當太空人來得及嗎？太空人很無聊可不可以打電動，都問過了。
+
+不過可能是太久沒有遊客了，他非常的開心，還讓我們進去平常不開放給遊客進去的駕駛艙。
+
+我們在這裡玩了三個小時，厲害吧！
 
 ## 吃吃喝喝
 
