@@ -17,17 +17,17 @@
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d77e90dc-1760-4cfe-9333-2c5d81b8cc26)
 
-我們是從新千歲機場搭乘 JR `千歲線`接`室蘭本線`到苫小牧車站下車，車程大概 1 個小時左右，沿途風景滿漂亮的，也很好睡。
+我們是從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 1 個小時左右，沿途風景滿漂亮的，也很好睡。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/20f74c36-019a-4f66-af23-309c791f4ce2)
 
-車站附近，上圖圈起來有一個叫做「苫小牧観光案内所」，一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，都可以來這裡詢問。
+車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
 
 店員很親切，因為我們不會講日文，所以主要用翻譯軟體溝通。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/3812d64d-efc1-4d72-b35d-19de488e3f66)
 
-苫小牧車站和苫小牧観光案内所內的櫃檯都有許多摺頁可以拿，我們習慣會拿交通有關的摺頁，以後可能有機會用得上。
+`苫小牧車站`和`苫小牧観光案内所`的櫃檯都有許多摺頁可以拿，我們習慣會拿交通有關的摺頁，以後可能有機會用得上。
 
 ### ウトナイ湖
 
@@ -43,11 +43,47 @@
 
 上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間
 
-一個小時一班，錯過的話就在附近逛一逛再回來吧！
+一個小時一班！
+
+一個小時一班！
+
+一個小時一班！
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d5f8aa8-ae13-4b58-ae99-4c72801a1335)
 
 車程大約 40 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
+
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/50f4a92c-a37c-4e21-9239-1c647dd65e7e)
+
+上圖的紅色圈圈，是可以休息上廁所的地方
+
+到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息
+
+![B39B482A-F803-4870-A181-5E5E46C9C5CF](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0904ac08-2a2a-4ceb-8de7-f399429f85ec)
+
+附上菜單，甜點非常非常的好吃！
+
+老闆很親切也很漂亮。
+
+<img width="972" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4">
+
+過了馬路，就是非常有名的`道之駅 ウトナイ湖`，裡面有賣各式各樣的鳥周邊和食物，一不小心錢包君就會失血太多。
+
+有看到圖片右邊有個豬豬嗎？那間叫 [道の駅ウトナイ湖プレジール](https://www.instagram.com/plaisir_b1tonchan)
+
+肉包很好吃，老闆會用台語招呼客人喔！
+
+<img width="1001" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b">
+
+上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗紗貼紙。
+
+<img width="1000" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5">
+
+上圖是`ウトナイ湖野生鳥獣保護センター`內部。
+
+<img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
+
+賞鳥的話，沿著湖畔的步道走就可以了，如果還有其他行程的話，記得拿捏好來回的時間。
 
 ### 北海道大学苫小牧研究林
 
