@@ -12,7 +12,7 @@
 
 ## 交通
 
-### 新千歲機場到苫小牧車站
+### 1. 新千歲機場到苫小牧車站
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d77e90dc-1760-4cfe-9333-2c5d81b8cc26)
 
@@ -22,13 +22,15 @@
 
 車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
 
+推薦裡面賣的北寄貝醬油，如果有鳥友最近有去的話，記得幫我帶一罐！非常感謝您！
+
 店員很親切，因為我們不會講日文，所以主要用翻譯軟體溝通。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/3812d64d-efc1-4d72-b35d-19de488e3f66)
 
 `苫小牧車站`和`苫小牧観光案内所`的櫃檯都有許多摺頁可以拿，我們習慣會拿交通有關的摺頁，以後可能有機會用得上。
 
-### ウトナイ湖
+### 2. ウトナイ湖
 
 到 `ウトナイ湖`要搭公車。
 
@@ -36,13 +38,13 @@
 
 公車站大概長這樣。
 
-因為我們當時差點錯過公車，所以把行李箱頂在頭上全力奔跑，來不及拍照，這裡指好用 Google 街景代替，真是抱歉啊啊啊啊！
+因為我們當時差點錯過公車，所以把行李箱頂在頭上全力奔跑，來不及拍照，這裡只好用 Google 街景代替，真是抱歉啊啊啊啊！
 
 ![312A2EE5-DE07-4A6F-9974-056F5E3D8565](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d393c958-49e9-4283-b305-94fc7c16772e)
 
-上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間。
+上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間，右邊是預計回程的時間。
 
-我們習慣會在上面做記號，並且拍照。
+我們習慣會在上面做記號，並且拍照留紀錄。
 
 要注意一個小時一班喔！
 
@@ -74,7 +76,7 @@
 
 有看到圖片右邊有個豬豬嗎？那間叫 [道の駅ウトナイ湖プレジール](https://www.instagram.com/plaisir_b1tonchan)
 
-肉包很好吃，老闆會用台語招呼客人喔！
+肉包很好吃，老闆很可愛，會用台語招呼客人喔！
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b">
 
@@ -100,19 +102,19 @@
 
 ### 苫小牧科學博物館
 
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/55efb9e0-1d74-45f1-b8e6-9334f6c89c5b)
+
 除了剛才提到的兩個鳥點外，我們還另外去了`苫小牧科學博物館`，非常推薦來這裡逛逛。
 
 裡頭展示了各式各樣的交通機械
 
 ![005151AF-A5F2-4ACD-8D32-23CBA2A987CC](https://github.com/siansiansu/tomakomai-birding/assets/33391637/219abe2c-aee4-4b70-b5a3-a86d6fda571b)
 
-
-
 還有一艘退役的太空站
 
 ![BF7E9550-D580-4C1C-837D-52B258F68851](https://github.com/siansiansu/tomakomai-birding/assets/33391637/7b36a054-05a1-47f5-8543-0a9bc9544145)
 
-我們在這裡用翻譯軟體纏著導覽員問東問西，什麼鬼問題，像是太空人怎麼便便啦？我已經 30 幾歲了現在當太空人來得及嗎？太空人很無聊可不可以打電動，都問過了。
+我們纏著導覽員問東問西，什麼鬼問題，像是太空人怎麼便便啦？我已經 30 幾歲了現在當太空人來得及嗎？太空人很無聊可不可以打電動？都問過了。
 
 不過可能是太久沒有遊客了，他非常的開心，還讓我們進去平常不開放給遊客進去的駕駛艙。
 
@@ -120,6 +122,48 @@
 
 ## 吃吃喝喝
 
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/b788d32e-f94c-4002-b938-d222164c4842)
+
+[Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
+
+想不到在苫小牧也有非常道地的西式餐廳！
+
+Toncini 是一對很年輕的夫婦經營的，太太是日本人，先生好像是義大利人，還是哪裡人我忘了。
+
+隱藏在普通的民宅內
+
+![C5A3DC6C-4FE8-4FDD-A736-034621D77592](https://github.com/siansiansu/tomakomai-birding/assets/33391637/95f0fc5a-10b4-46be-b4c5-f4cd0283653f)
+
+餐點非常非常的厲害，兩萬顆星推薦！
+
+![04A9F3A9-F1CC-4055-94F3-3ECFEF89D2E0_1_201_a](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2ab5c290-849a-431c-bf0a-f1f70315ad59)
+
+義大利麵，我可以吃一萬盤！
+
+<img width="997" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/5cdce9a7-1509-4ba7-9f7d-8184824ad532">
+
+這是菜單的封面
+
+![D8615E63-B569-4A40-8ED7-586A6A1F4177](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d8be3001-b44b-4c50-8688-3e1e841b854a)
+
 ## 住宿
 
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/227a4244-56fe-49b9-b468-e3a1e18ec3ac)
+
+我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，沒什麼特別的原因，只是因為離車站很近。
+
 ## 行李寄放
+
+畢竟主要的行程是賞鳥，大型行李箱我們都暫時寄放在新千歲機場，回程的時候才去拿，有兩種寄放的方式：
+
+1. [投幣式置物櫃](https://www.new-chitose-airport.jp/tw/service/baggage/locker/)
+
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e06dd8df-c9e3-4963-b689-f1be427d4c51)
+
+缺點是只能放三天。
+
+2. [手提行李暫時寄放、宅配、行李服務](https://www.new-chitose-airport.jp/tw/service/baggage/baggage_checkroom/)
+
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
+
+我們是使用這個服務，要注意取件時間只到晚上八點，超過就沒辦法取件囉！
