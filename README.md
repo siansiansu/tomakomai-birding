@@ -1,4 +1,4 @@
-# [賞鳥筆記] 苫小牧賞鳥自由行攻略
+# 賞鳥新手的賞鳥筆記 - 苫小牧篇
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tomakomai-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
@@ -85,16 +85,16 @@
 
 <img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
 
-賞鳥的話，沿著湖畔的步道走就可以了，如果還有其他行程的話，記得拿捏好來回的時間。
+賞鳥的話，沿著湖畔的步道走就可以了，如果還有其他行程的話，記得掌握好來回的時間。
 
 ### 北海道大学苫小牧研究林
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d621cce-1120-4967-af12-4b7859c3de91)
 
-從苫小牧車站出發，在公車乘車處找「01永福三条線」這班公車，公車是綠色的。
+因為時間的關係，我們沒有實際探訪`苫小牧研究林`，不過還是有預先做好功課，我放在這邊。
 
-公車搭到「美園小学校前」站，再徒步走進去苫小牧研究林就可以了。
-
+從苫小牧車站出發，在公車乘車處找「01永福三条線」這班公車。
+公車搭到「美園小学校前」站，再徒步走約 40 分鐘進去苫小牧研究林就可以了。
 
 ### 苫小牧科學博物館
 
