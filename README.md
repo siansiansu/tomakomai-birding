@@ -185,6 +185,18 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，沒什麼特別的原因，只是因為離車站很近。
 
+## 粉絲專頁
+
+- [【公式】苫小牧市科学センター](https://www.instagram.com/tomakomai_city_science_museum/)
+- [苫小牧観光協会](https://www.instagram.com/toma_tourism/)
+- [苫小牧市　ふるさと納税【公式】](https://www.instagram.com/furusato_tomakomai/)
+- [ウトナイ湖野生鳥獣保護センター](https://www.instagram.com/utonaiwcc/)
+- [ウトナイ湖ネイチャーセンター](https://www.instagram.com/utonai_nc/)
+- [ハンドメイド苫小牧from道の駅ウトナイ湖](https://www.instagram.com/handmade_tomakomai_utonaiko/)
+- [道の駅ウトナイ湖](https://www.instagram.com/michinoeki.utonaiko/)
+- [道の駅ウトナイ湖プレジール](https://www.instagram.com/plaisir_b1tonchan/)
+- [Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
+
 ## 行李寄放
 
 畢竟主要的行程是賞鳥，大型行李箱我們都暫時寄放在新千歲機場，回程的時候才去拿，有兩種寄放的方式：
