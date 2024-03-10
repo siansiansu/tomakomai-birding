@@ -26,11 +26,11 @@
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d77e90dc-1760-4cfe-9333-2c5d81b8cc26)
 
-我們是從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 1 個小時左右，沿途風景滿漂亮的，也很好睡。
+我們是從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 `1` 個小時左右，沿途風景滿漂亮的，也很好睡。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/20f74c36-019a-4f66-af23-309c791f4ce2)
 
-車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
+車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，是一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
 
 推薦裡面賣的`北寄貝醬油`，如果鳥友最近有去的話，記得幫我帶一罐！非常感謝您！好人一生平安！
 
@@ -54,13 +54,13 @@
 
 上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間，右邊是預計回程的時間。
 
-我們習慣會在上面做記號，並且拍照留紀錄。
+==我們習慣在上面做記號，並且拍照留紀錄。==
 
 要注意一個小時一班喔！
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d5f8aa8-ae13-4b58-ae99-4c72801a1335)
 
-車程大約 40 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
+車程大約 `40` 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/9cbeedab-3e85-4e09-b107-05e74bb5c6ef)
 
@@ -84,11 +84,11 @@
 
 過了馬路，就是非常有名的`道之駅 ウトナイ湖`，裡面有賣各式各樣的鳥周邊和食物，一不小心錢包君就會失血太多。
 
+<br/>
+
 錢包君你還好嗎？醒醒ㄚ錢包君！
 
-:::warning
-`道の駅 ウトナイ湖`的營業時間是 `9 AM - 5 PM`
-:::
+<br/>
 
 有看到圖片右邊有個豬豬嗎？那間叫 [道の駅ウトナイ湖プレジール](https://www.instagram.com/plaisir_b1tonchan)
 
@@ -96,25 +96,29 @@
 
 bah-pau! hó-tsia̍h ê bah-pau!
 
+:::success
+[補充] 道の駅 ウトナイ湖的營業時間是 9 AM - 5 PM。
+:::
+
 <img width="1001" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b">
 
 上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
-:::warning
-`道の駅ウトナイ湖 展望台`開放的時間是 `9 AM - 5 PM`
+:::success
+[補充] 道の駅ウトナイ湖 展望台開放的時間是 9 AM - 5 PM。
 :::
 
 <img width="1000" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5">
 
 上圖是`ウトナイ湖野生鳥獣保護センター`內部，裡面有很多小朋友做的正面鳥勞作。
 
-:::warning
-`ウトナイ湖野生鳥獣保護センター`每個禮拜一休館，營業時間是 `9 AM - 5 PM`
-:::
-
 <img width="983" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/e6d29281-40b4-430f-bb88-b4b8897f880e">
 
-你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)
+你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)。
+
+:::success
+[補充] ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
+:::
 
 <img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
 
@@ -124,11 +128,11 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 回程時記得算好公車來的時間，免得等太久的公車！
 
-#### 補充
+#### [補充] 另一個路線
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/cf647f80-8449-4b5f-9b58-4ff4f0c31cd7)
 
-上圖是另外`ウトナイ湖`另一個路線，網路上有些文章提到是從這裡進去，但我們比較不建議這樣做，因為要走比較久。
+上圖是`ウトナイ湖`另一個入口，網路上有些文章提到是從這裡進去，但我們比較不建議這樣做，因為要走比較久。
 
 以我們剛才提到的`道之駅`當作休息的據點，進可攻退可守，賞鳥會比較輕鬆一些。
 
@@ -147,10 +151,6 @@ bah-pau! hó-tsia̍h ê bah-pau!
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/55efb9e0-1d74-45f1-b8e6-9334f6c89c5b)
 
 除了剛才提到的兩個鳥點外，我們還另外去了`苫小牧科學博物館`，非常推薦來這裡逛逛。
-
-:::warning
-`苫小牧科學博物館`每個禮拜一休館，營業時間是 `9:30 AM - 5 PM`
-:::
 
 裡頭展示了各式各樣的交通機械
 
@@ -175,6 +175,10 @@ bah-pau! hó-tsia̍h ê bah-pau!
 可能是太久沒有遇到那麼活潑可愛的遊客了，導覽員回答的非常的開心，還讓我們進去平常不開放給遊客進去的駕駛艙。
 
 我們在這裡玩了三個小時，厲害吧！
+
+:::info
+[補充] 苫小牧科學博物館每個禮拜一休館，開放時間是 9:30 AM - 5 PM。
+:::
 
 ## 吃吃喝喝
 
