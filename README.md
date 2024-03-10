@@ -184,12 +184,33 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，沒什麼特別的原因，只是因為離車站很近。
 
-## 粉絲專頁
+## 鳥訊
+
+- [eBird](https://www.ebird.org/)
+- [iNaturalist](https://www.inaturalist.org/)
+
+Facebook
+
+- [ウトナイ湖ネイチャーセンター](https://www.facebook.com/UtonaiNatureCenter)
+- [ウトナイ湖野生鳥獣保護センター](https://www.facebook.com/UtonaiWCC)
+
+Instagram
+
+- [ウトナイ湖ネイチャーセンター](https://www.instagram.com/utonai_nc/)
+- [ウトナイ湖野生鳥獣保護センター](https://www.instagram.com/utonaiwcc/)
+
+## 其他粉絲專頁
+
+Facebook
+
+- [【苫小牧】道の駅ウトナイ湖](https://www.facebook.com/michinoekiutonaiko)
+- [ハンドメイド苫小牧from道の駅ウトナイ湖](https://www.facebook.com/profile.php?id=100063784582858)
+- [道の駅ウトナイ湖プレジール](https://www.facebook.com/utonai.plaisir)
+
+Instagram
 
 - [Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
 - [【公式】苫小牧市科学センター](https://www.instagram.com/tomakomai_city_science_museum/)
-- [ウトナイ湖ネイチャーセンター](https://www.instagram.com/utonai_nc/)
-- [ウトナイ湖野生鳥獣保護センター](https://www.instagram.com/utonaiwcc/)
 - [ハンドメイド苫小牧from道の駅ウトナイ湖](https://www.instagram.com/handmade_tomakomai_utonaiko/)
 - [苫小牧市　ふるさと納税【公式】](https://www.instagram.com/furusato_tomakomai/)
 - [苫小牧観光協会](https://www.instagram.com/toma_tourism/)
