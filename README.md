@@ -124,11 +124,13 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 回程時記得算好公車來的時間，免得等太久的公車！
 
+#### 補充
+
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/cf647f80-8449-4b5f-9b58-4ff4f0c31cd7)
 
-上圖是另外`ウトナイ湖`另一個路線，網路上有些文章提到是從這裡進去，但我們比較不建議這樣做。
+上圖是另外`ウトナイ湖`另一個路線，網路上有些文章提到是從這裡進去，但我們比較不建議這樣做，因為要走比較久。
 
-以我們剛才提到的道之駅當作休息的據點，會比較輕鬆一些。
+以我們剛才提到的`道之駅`當作休息的據點，進可攻退可守，賞鳥會比較輕鬆一些。
 
 ### 北海道大学苫小牧研究林
 
@@ -204,7 +206,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/227a4244-56fe-49b9-b468-e3a1e18ec3ac)
 
-我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，沒什麼特別的原因，只是因為離車站很近。
+我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，因為離車站很近。
 
 ## 鳥訊
 
