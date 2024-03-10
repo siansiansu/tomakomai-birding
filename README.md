@@ -209,6 +209,7 @@ Facebook
 
 Instagram
 
+- [KANADE](https://www.instagram.com/cafe_kanade/)
 - [Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
 - [【公式】苫小牧市科学センター](https://www.instagram.com/tomakomai_city_science_museum/)
 - [ハンドメイド苫小牧from道の駅ウトナイ湖](https://www.instagram.com/handmade_tomakomai_utonaiko/)
