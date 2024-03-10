@@ -72,7 +72,7 @@
 
 <img width="994" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78">
 
-到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息，是一棟小木屋。
+到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息和上廁所，是一棟小木屋。
 
 ![B39B482A-F803-4870-A181-5E5E46C9C5CF](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0904ac08-2a2a-4ceb-8de7-f399429f85ec)
 
