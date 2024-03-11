@@ -263,5 +263,5 @@ Instagram
 我們是使用這個服務，要注意取件時間只到**晚上八點**，超過就沒辦法取件囉！
 
 :::warning
-如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://portaly.cc/siansiansu/support)請我喝咖啡。
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://p.ecpay.com.tw/5256DCE)請我喝咖啡。
 :::
