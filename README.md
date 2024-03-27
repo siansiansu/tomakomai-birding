@@ -1,7 +1,7 @@
 # 寫給賞鳥新手的賞鳥筆記 - 苫小牧篇
 
 :::success
-也寫給每位路癡體質和弱弱腸胃體質的鳥友
+也寫給每位路癡體質和弱弱腸胃體質的鳥友 😆
 :::
 
 :::warning
@@ -97,7 +97,7 @@
 bah-pau! hó-tsia̍h ê bah-pau!
 
 :::success
-[補充] 道の駅 ウトナイ湖的營業時間是 9 AM - 5 PM。
+📍 道の駅ウトナイ湖的營業時間是 9 AM - 5 PM。
 :::
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b">
@@ -105,7 +105,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
 :::success
-[補充] 道の駅ウトナイ湖 展望台開放的時間是 9 AM - 5 PM。
+📍 道の駅ウトナイ湖展望台開放的時間是 9 AM - 5 PM。
 :::
 
 <img width="1000" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5">
@@ -117,24 +117,22 @@ bah-pau! hó-tsia̍h ê bah-pau!
 你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)。
 
 :::success
-[補充] ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
+📍 ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
 :::
 
 <img width="999" alt="image" src="https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc">
 
 賞鳥的話，沿著湖畔的步道走就可以了，是個非常輕鬆賞鳥行程，沒有什麼要注意的地方。
 
-走累了就提早回去`道之駅`休息吧！
+走累了就提早回去道の駅休息吧！
 
 回程時記得算好公車來的時間，免得等太久的公車！
 
-#### [補充] 另一個路線
+#### 另一個路線
 
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/cf647f80-8449-4b5f-9b58-4ff4f0c31cd7)
 
-上圖是`ウトナイ湖`另一個入口，網路上有些文章提到是從這裡進去，但我們比較不建議這樣做，因為要走比較久。
-
-以我們剛才提到的`道之駅`當作休息的據點，進可攻退可守，賞鳥會比較輕鬆一些。
+上圖是`ウトナイ湖`另一個入口，網路上有些文章提到是從這裡進去，但離道の駅比較遠。
 
 ### 北海道大学苫小牧研究林
 
@@ -177,7 +175,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 我們在這裡玩了三個小時，厲害吧！
 
 :::info
-[補充] 苫小牧科學博物館每個禮拜一休館，開放時間是 9:30 AM - 5 PM。
+📍 苫小牧科學博物館每個禮拜一休館，開放時間是 9:30 AM - 5 PM。
 :::
 
 ## 吃吃喝喝
@@ -261,7 +259,3 @@ Instagram
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
 
 我們是使用這個服務，要注意取件時間只到**晚上八點**，超過就沒辦法取件囉！
-
-:::warning
-如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://p.ecpay.com.tw/5256DCE)請我喝咖啡。
-:::
